@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Engineering Utility Platform",
+  "description": "A professional prompt builder and optimization workspace that converts user goals into structured, battle-tested AI prompts, featuring built-in Gemini-powered field expansion, quality evaluation, sandbox testing, and robust local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

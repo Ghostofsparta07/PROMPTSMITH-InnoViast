@@ -114,6 +114,18 @@ The **Prompt Engineering Utility Platform** solves this by giving users a guided
 
 ---
 
+## 🧪 Progress Evidence
+
+This project was built end-to-end using AI-assisted rapid prototyping in Google AI Studio. Progress is reflected below through an early build state, a successful production deployment, and the commit history in this repository.
+
+| Initial Build State | Successful Render Deployment |
+|---|---|
+| ![Initial Version](docs/progress-evidence/01-initial-version.png) | ![Deploy Success](docs/progress-evidence/02-deploy-success.png) |
+
+> Full development history is also available in the [commit log](https://github.com/Ghostofsparta07/PROMPTSMITH-InnoViast/commits/main) of this repository.
+
+---
+
 ## 📈 Learning Outcomes & Reflection
 
 - **Semantic Steering & Structuring**: Understanding how few-shot examples and rigorous negative instructions mitigate hallucination by more than 80% compared to basic chat prompts.

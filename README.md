@@ -98,7 +98,7 @@ The **Prompt Engineering Utility Platform** solves this by giving users a guided
 
 ## 🌐 Live Demo
 
-> _[Add your deployed Render URL here once Step 4 of deployment is complete, e.g. `https://prompt-engineering-utility-platform.onrender.com`]_
+> https://promptsmith-innoviast.onrender.com
 
 ## 🖼️ Screenshots
 
